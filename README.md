@@ -1,5 +1,6 @@
 # widget-ridwan
-
+Nama : RIDWAN
+Npm  : 213510231
 ## Project setup
 ```
 npm install
